@@ -1,0 +1,2 @@
+# fridea
+Fridea web app
